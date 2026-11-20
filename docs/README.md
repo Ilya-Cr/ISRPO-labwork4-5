@@ -23,3 +23,5 @@
     >**fibonacchi(3) -> 3
     >fibonacchi(5) -> 8**
 ## История проекта
++ __58593e4f9b27cfa9e4da6d5e97161df1f3e7a30d__ Add Project
++ __bb3612812b734e46e4a10e7f019d748574a9bc12__ Add tests
